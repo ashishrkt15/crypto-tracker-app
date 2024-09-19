@@ -1,0 +1,1 @@
+RUN git clone https://cap2techbuilder:ghp_867rQerSZuAeZlrtswdefsXPkqqnMKxabcdsyym6@github.com/Capillary/log_collector.git /etc/abc
