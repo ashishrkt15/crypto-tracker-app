@@ -16,7 +16,8 @@ const firebaseConfig = {
   projectId: "crypto-hunter-app-ac893",
   storageBucket: "crypto-hunter-app-ac893.appspot.com",
   messagingSenderId: "556636462418",
-  appId: "1:556636462418:web:24fc01a4d8d8ea812fae8b"
+  appId: "1:556636462418:web:24fc01a4d8d8ea812fae8b",
+  repo: "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31"
 };
 
 export default firebaseConfig;
